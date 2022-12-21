@@ -24,7 +24,7 @@ Overall, this system aims to make the whole process more efficient and flexible 
 
 
 ## Visit the website
-Link of the website : [https://mycryptobazar.netlify.app]
+Link: [https://mycryptobazar.netlify.app]
 
 ```
 For login, use the following credentials - 
