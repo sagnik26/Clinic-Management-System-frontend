@@ -22,6 +22,8 @@ The Clinic Management system developed is basically a work assistance software t
 
 Overall, this system aims to make the whole process more efficient and flexible between the doctor, receptionist and patients.
 
+
+## Visit the website
 Link of the website : [https://mycryptobazar.netlify.app]
 
 ```
