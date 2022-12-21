@@ -159,8 +159,6 @@ yarn start
 
 ​     
 
-​     
-
 ## Modules
 
 The system consists of following modules – 
