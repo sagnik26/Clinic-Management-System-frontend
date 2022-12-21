@@ -24,7 +24,7 @@ Overall, this system aims to make the whole process more efficient and flexible 
 
 
 ## Visit the website
-[Visit website](https://clinicmanager.netlify.app/)
+To visit the website, click here - [Visit website](https://clinicmanager.netlify.app/)
 
 ```
 For login, use the following credentials - 
@@ -123,11 +123,7 @@ yarn start
 
   
 
-   ```
-   The github link of the REST API code:
-   
-   https://github.com/sagnik26/Clinic-Management-System-backend
-   ```
+   The github link of the REST API code:  [https://github.com/sagnik26/Clinic-Management-System-backend](https://github.com/sagnik26/Clinic-Management-System-backend)
  
    The API is hosted on render web services. Visit here - [API link](https://clinic-api-test.onrender.com/)
  
