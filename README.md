@@ -1,1 +1,0 @@
-# clinic_management_frontend_test
