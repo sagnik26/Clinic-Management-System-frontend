@@ -157,7 +157,6 @@ yarn start
 
 ​															![jwt](https://user-images.githubusercontent.com/52010932/208853671-a71f1114-8194-4dd8-8698-8d5950174641.png)		
 
-​     
 
 ## Modules
 
