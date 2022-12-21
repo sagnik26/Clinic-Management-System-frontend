@@ -24,7 +24,7 @@ Overall, this system aims to make the whole process more efficient and flexible 
 
 
 ## Visit the website
-Link: [https://clinicmanager.netlify.app/]
+[Visit website] ([https://clinicmanager.netlify.app/)
 
 ```
 For login, use the following credentials - 
