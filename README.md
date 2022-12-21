@@ -125,9 +125,9 @@ yarn start
 
   The API is hosted on render web services. The link is given below - 
 
-  ```
-   [API link](https://clinic-api-test.onrender.com/)
-  ```
+ 
+   [](https://clinic-api-test.onrender.com/)
+ 
 
 
 
