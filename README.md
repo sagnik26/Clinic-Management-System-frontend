@@ -123,7 +123,12 @@ yarn start
 
   
 
-  The API is hosted on render web services. The link is given below - 
+   ```
+   The github link of the REST API code:
+   https://github.com/sagnik26/Clinic-Management-System-backend
+   ```
+ 
+   The API is hosted on render web services. The link is given below - 
 
  
    [API link](https://clinic-api-test.onrender.com/)
