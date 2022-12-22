@@ -5,7 +5,7 @@
 ![clinic_manager](https://user-images.githubusercontent.com/52010932/208830805-63e96c8d-71e6-409a-8b92-0495e1726d96.png)
 
 
-## Video
+## Demo video
 https://user-images.githubusercontent.com/52010932/209068272-5ee6b418-f7e2-4120-adf7-1b589165bdc3.mp4
 
 
